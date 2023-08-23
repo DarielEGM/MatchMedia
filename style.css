@@ -1,0 +1,29 @@
+body {
+    color: #222;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    background: #48e;
+    font-size: 40px;
+    color: #fff;
+}
+
+.box span,.responsive-box span{
+    margin:auto;
+}
+
+
+.responsive-box{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    background: #333;
+    font-size: 40px;
+    color: #fff;
+}
